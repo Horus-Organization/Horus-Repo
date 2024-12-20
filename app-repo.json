@@ -18,13 +18,13 @@
   "apps": [
     {
       "beta": true,
-      "name" : ".",
+      "name" : "Horus Repo",
       "bundleIdentifier": ".",
-      "developerName" : ".",
+      "developerName" : "zigwangles",
       "subtitle": ".",
-      "description": ".",
+      "description": "The Omni Repo! \n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n",
       "localizedDescription": ".",
-      "iconURL": "https://cdn.omnidev.org/app_Icon_Site-Rl.png",
+      "iconURL": "https://link.storjshare.io/s/jvbpvxajdparaso7mlz7tmlv6k6a/games/Images/IMG_1102.webp",
       "tintColor": "000000",
       "category": "utilities",
       "version": "1",
