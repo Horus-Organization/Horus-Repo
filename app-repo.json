@@ -8,27 +8,27 @@
   "description": "A source that is growing every day.\n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked\nJoin the Discord: https://discord.gg/9ArHTK64j6",
   "tintColor": "7400ff",
   "featuredApps": [
-    "com.robtop.geometryjump2206",
-    
+    "com.box.hd.flix.drama.hub",
+    "com.sonicrunners.revival",
+    "com.google.ios.ytliteplus",
+    "com.spotify.client",
+    "com.kdt.sparsebox",
+    "com.kdt.livecontainer"
+  ],
   
   "apps": [
     {
-    "beta": false,
-    "name" : "Geometry Dash v2.2.06",
-    "bundleIdentifier": "com.robtop.geometryjump2206",
-    "developerName" : "RobTop Games AB",
-    "subtitle": "Geometry Dash - Push your skills to the limit",
-    "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
-    "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
-    "iconURL": "https://storage.omnidev.org/geodash-5O.png",
-    "tintColor": "ffb304",
-    "category": "games",
-    "version": "2.2.06",
-    "versionDate" : "2024-10-30",
-    "downloadURL": "https://storage.omnidev.org/Geometry_2_206-2v.ipa",
-    "size": 152252416,
-    "title": "Geometry Dash v2.2.06",
-    "url": "https://www.robtopgames.com/"
+      "name": "MegaGames",
+      "bundleIdentifier": "com.techguy.megagames",
+      "subtitle": "Play many games with this app",
+      "developerName": "Tech Guy",
+      "iconURL": "https://github.com/TechGuy541/MegaGames/blob/main/App/Assets.xcassets/AppIcon.appiconset/logo%201.png?raw=true",
+      "version": "1.0.0",
+      "size": 35600000,
+      "downloadURL": "https://link.storjshare.io/s/jxsmanadwj4jfanpdklyxz5gx2ua/games/IMG_1114.jpeg?download=1",
+      "localizedDescription": " MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, MegaGames has something for everyone. Enjoy a selection of classic, retro-inspired games, including:\n\n 🎮 Flappy Bird: Test your reflexes by guiding the bird through endless pipes in this arcade favorite.\n🦖 Dino Run: Jump over cacti in this simple yet thrilling endless runner game!\n🚁 Retro Helicopter: Take control of a helicopter and avoid blocks in this challenge.\n🌍 Wordle: A fun word quiz! Guess the word using the clues given.\n 🏎️ Smash Karts: Fast-paced multiplayer kart game where you fight to see who can kill the most.\n🖌️ Draw & Create: Let your imagination run wild with our built-in drawing feature.\n And more: even more games and things to enjoy",
+      "versionDate": "2024-11-03",
+      "beta": false
     },
     ]
 }
