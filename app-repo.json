@@ -5,7 +5,7 @@
   "iconURL": "https://gateway.storjshare.io/games/Images/IMG_1102.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=jvsqoqppxbw3appdxqnvyy5shdja%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T003342Z&X-Amz-Expires=900&X-Amz-Signature=d98b04555cff3e7805b0ba37c123c1810a6cb2b15ff1e977d3ffe0510fafaa34&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-id=GetObject",
   "website": "https://discord.gg/GUyxpm92",
   "tintColor": "#F54F32",
-  ],
+  
   "apps": [
     {
         "name": "My Example App",
