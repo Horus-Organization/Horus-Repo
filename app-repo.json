@@ -8,23 +8,22 @@
   
   "apps": [
     {
-        "name": "My Example App",
-        "bundleIdentifier": "com.example.myapp",
-        "marketplaceID": "12345678",
-        "developerName": "Example Developer",
-        "subtitle": "An awesome app.",
-        "localizedDescription": "This is an awesome app only available on AltStore.",
-        "iconURL": "https://example.com/myapp_icon.png",
-        "tintColor": "#F54F32",
-        "category": "utilities",
-        "screenshots": [
-            "https://example.com/myapp_screenshot1.png",
-            "https://example.com/myapp_screenshot2.png",
-            "https://example.com/myapp_screenshot3.png"
-        ],
-        "versions": [],
-        "appPermissions": {},
-        "patreon": {},
+    "beta": false,
+    "name" : "Geometry Dash v2.2.06",
+    "bundleIdentifier": "com.robtop.geometryjump2206",
+    "developerName" : "RobTop Games AB",
+    "subtitle": "Geometry Dash - Push your skills to the limit",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+    "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+    "iconURL": "https://storage.omnidev.org/geodash-5O.png",
+    "tintColor": "ffb304",
+    "category": "games",
+    "version": "2.2.06",
+    "versionDate" : "2024-10-30",
+    "downloadURL": "https://storage.omnidev.org/Geometry_2_206-2v.ipa",
+    "size": 152252416,
+    "title": "Geometry Dash v2.2.06",
+    "url": "https://www.robtopgames.com/"
     },
 ]
 
