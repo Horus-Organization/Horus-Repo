@@ -1,7 +1,7 @@
 {
     "name": "Horus Repository",
     "identifier": "com.zigwangles.horus",
-    "sourceURL": "https://raw.githubusercontent.com/Horus-Organization/Horus-Repo/refs/heads/main/app-repo.jsonmaster/altstore-source.json",
+    "sourceURL": "https://raw.githubusercontent.com/Horus-Organization/Horus-Repo/refs/heads/main/app-repo.json",
     "apps": [
         {
             "name": "Horus Repo",
