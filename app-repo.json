@@ -1,0 +1,15 @@
+{
+  "name": "Horus Repository",
+  "subtitle": "A collection of hacked and cracked games",
+  "description": "Thanks for using my repo!",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://example.com",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [],
+  "news": [],
+}
