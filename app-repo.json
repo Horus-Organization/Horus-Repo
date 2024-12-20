@@ -1,23 +1,19 @@
 {
-    "name": "Chromium for iOS",
-    "identifier": "com.joediragi.chromios",
-    "sourceURL": "https://raw.githubusercontent.com/TheNightmanCodeth/chromium-ios/master/altstore-source.json",
+    "name": "Horus Repository",
+    "identifier": "com.zigwangles.horus",
+    "sourceURL": "https://raw.githubusercontent.com/Horus-Organization/Horus-Repo/refs/heads/main/app-repo.jsonmaster/altstore-source.json",
     "apps": [
         {
-            "name": "Chromium",
-            "bundleIdentifier": "org.chromium.chrome.ios.dev",
-            "developerName": "Google",
+            "name": "Horus Repo",
+            "bundleIdentifier": "org.zigwangles.horusupdates",
+            "developerName": "zigwangles",
             "subtitle": "Compiled with love, by hand <3",
-            "version": "91.0.4458.0",
-            "versionDate": "2021-03-25",
+            "version": "1.0.0",
+            "versionDate": "2024-12-18",
             "versionDescription": "First 'release' for iOS",
-            "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
             "localizedDescription": "Open source version of Google's Chrome browser for iOS",
-            "iconURL": "https://github.com/TheNightmanCodeth/chromium-ios/raw/master/Icon.png",
+            "iconURL": "https://gateway.storjshare.io/games/Images/IMG_1102.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=jvsqoqppxbw3appdxqnvyy5shdja%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T003342Z&X-Amz-Expires=900&X-Amz-Signature=d98b04555cff3e7805b0ba37c123c1810a6cb2b15ff1e977d3ffe0510fafaa34&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-id=GetObject",
             "size": 106722609,
-            "screenshotURLs": [
-                "https://i.imgur.com/dolzx60.png",
-                "https://i.imgur.com/XpJNa6V.png"
             ],
             "beta": false
         }
