@@ -1,27 +1,50 @@
 {
-    "name": "Horus Repository",
-    "identifier": "com.zigwangles.horus",
-    "sourceURL": "https://raw.githubusercontent.com/Horus-Organization/Horus-Repo/refs/heads/main/app-repo.json",
-    "apps": [
-        {
-            "name": "Horus Repo",
-            "bundleIdentifier": "org.zigwangles.horusupdates",
-            "developerName": "zigwangles",
-            "subtitle": "Compiled with love, by hand <3",
-            "version": "1.0.0",
-            "versionDate": "2024-12-18",
-            "versionDescription": "First 'release' for iOS",
-            "localizedDescription": "Open source version of Google's Chrome browser for iOS",
-            "iconURL": "https://gateway.storjshare.io/games/Images/IMG_1102.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=jvsqoqppxbw3appdxqnvyy5shdja%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T003342Z&X-Amz-Expires=900&X-Amz-Signature=d98b04555cff3e7805b0ba37c123c1810a6cb2b15ff1e977d3ffe0510fafaa34&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-id=GetObject",
-            "beta": false
-        }
+    "name": "Omni-Development IPA Repo",
+    "identifier": "Omni-Development-Ipa-Repo",
+    "iconURL": "https://cdn.omnidev.org/Untitled_design_1-Em.png",
+    "patreonURL": "https://www.patreon.com/c/Realmzer",
+    "subtitle": "The official Omni-Development IPA Repository!",
+    "description": "The Omni Repo! \n\nStatus Icon Legend:\n✅ = Working\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown if its still getting updates or source doesn't exist\n🔵 = TrollStore only\n💸 = Paid Tweak, not Cracked\n🔥 = Recommended by Developer(s)\n🌟= Premium features unlocked\nJoin the Discord: https://discord.gg/qNHu2QEhJj",
+    "tintColor": "8a0656",
+    "featuredApps": [
+      "kh.crysalis.feather",
+      "com.sonicrunners.revival",
+      "com.google.ios.ytliteplus",
+      "com.spotify.client",
+      "com.kdt.sparsebox",
+      "com.kdt.livecontainer"
     ],
-    "news": [
-        {
-            "title": "Chromium for iOS now available through AltStore!",
-            "identifier": "chromium-available-download",
-            "caption": "Compiled by hand <3",
-            "date": "2020-03-25"
-        }
-    ]
+    
+  "apps": [
+    {
+      "beta": true,
+      "name" : ".",
+      "bundleIdentifier": ".",
+      "developerName" : ".",
+      "subtitle": ".",
+      "description": ".",
+      "localizedDescription": ".",
+      "iconURL": "https://cdn.omnidev.org/app_Icon_Site-Rl.png",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1",
+      "versionDate" : "2024-11-25",
+      "downloadURL": "https://cdn.omnidev.org/Post_Box_0_8_1_beta-l1.ipa",
+      "size": 1,
+      "title": ".",
+      "url": "https://www.roblox.com/",
+    },
+  ],
+  "news": [
+    {
+      "title": "Join our Discord Server!",
+      "identifier": "joinourdcserver",
+      "caption": "If your using the Omni repo, please join our server for updates and free support. Tap this to join or join here: discord.gg/v4rGF3w3Vs",
+      "date": "2024-11-28",
+      "tintColor": "#8223ed",
+      "imageURL": "https://cdn.omnidev.org/Discord_Symbol_1141822239-pi.png",
+      "url": "https://discord.gg/hUK5m9MGFc",
+      "notify": true
+    },
+  ]
 }
